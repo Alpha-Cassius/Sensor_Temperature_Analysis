@@ -32,7 +32,7 @@ pip install numpy
 
 2. Run the script:
 ```bash
-python Firstname_Lastname_Assignment.py
+python Vaibhav_Pandey_Assignment.py
 
 ```
 
